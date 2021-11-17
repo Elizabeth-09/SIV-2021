@@ -55,7 +55,11 @@
     <script src="./public/js/funciones-productos.js"></script>
     <script src="./public/js/js_funciones.js"></script>
     <script src="./public/js/text-oculto.js"></script>
-
+    <div style="margin-top: 10px;margin-bottom:80px;">
+        <a href="" class="btn btn-dark cod-registro" style="float:right;">
+        <i class="fas fa-registered fa-2x"></i>
+        </a>
+    </div>
     <div style="margin-bottom: 10px;">
         <div class="row">
             <div class="col-md-2">

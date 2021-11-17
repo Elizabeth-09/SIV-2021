@@ -45,6 +45,11 @@ CREATE TABLE proveedores (
     correo VARCHAR(50)
 );
 
+CREATE TABLE codregistros(
+    idcr INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+
+);
+
 CREATE TABLE productos (
     idproducto INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
     codproducto VARCHAR(10),
