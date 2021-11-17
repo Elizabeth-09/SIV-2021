@@ -1,0 +1,26 @@
+.padre {
+    height: 100vh;
+}
+  
+.hijo {
+    position: absolute;
+    top:50%;
+    left: 50%;           
+    margin-top: -100px;
+    margin-left: -100px;
+}
+
+/*Centrar Texto y texto en negrita*/
+.ctext-fb {
+    text-align: center;
+    font-weight: bold;
+}
+/*Centrar contenido*/
+.center {
+    text-align: center;
+}
+/*Centrar de forma Horizontal*/
+.ch{
+    vertical-align: middle;
+    text-align:center;
+}

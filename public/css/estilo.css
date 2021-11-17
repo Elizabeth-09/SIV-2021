@@ -1,0 +1,71 @@
+.bodylogin {
+    background-color: #757575;
+}
+
+.centrado {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boton {
+    font-size: 17px;
+    font-family: Verdana, Helvetica;
+    font-weight: bold;
+    color: white;
+    background: #00796b;
+    border: 0px;
+    width: 150px;
+    align-content: center;
+}
+
+.contenlogin {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    width: 500px;
+}
+
+.formlogin {
+    background-color: #546e7a;
+    opacity: 0.6;
+}
+
+.forminput {
+    width: 150px;
+}
+
+.nav {
+    background-color: #004d40;
+}
+
+.texcolor {
+    color: white;
+}
+
+.texcolor:hover {
+    color: white;
+}
+
+.texcolor:link {
+    text-decoration: none;
+}
+
+.texcolor:link {
+    text-decoration: none;
+}
+
+.footer {
+    position: fixed;
+    white-space: normal;
+    left: 0px;
+    bottom: 0px;
+    height: 40px;
+    width: 100%;
+    color: white;
+    background-color: #424242;
+}
